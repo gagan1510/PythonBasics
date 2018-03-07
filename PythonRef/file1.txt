@@ -1,0 +1,8 @@
+f = open("file1.txt", 'w')
+p = pickle._Pickler(f)
+x = 'Python Pickler library'
+try:
+    p.dump(x)
+except TypeError:
+    f.close()
+

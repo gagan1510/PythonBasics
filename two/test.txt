@@ -1,0 +1,3 @@
+This is just a text file on which I will perform the file operations!
+This is another line of the file.
+This is one more.
